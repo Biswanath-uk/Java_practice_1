@@ -14,7 +14,7 @@ public class Lab0112_Funtion {
             int Voting_age =age_of_vote();
             System.out.println(Voting_age);
             if (Voting_age >=18){
-                System.out.println("Allow to vote");
+                System.out.println("Allow to vote1");
             }
             else
             {
