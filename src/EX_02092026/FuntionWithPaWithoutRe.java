@@ -9,7 +9,7 @@ public class FuntionWithPaWithoutRe {
         System.out.println(a+c);
     }
 
-//
+
 //    static void sum_two_num1 (){
 //        System.out.println("Save ");
 //    }

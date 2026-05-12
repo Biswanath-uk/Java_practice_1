@@ -11,7 +11,7 @@ String Sum_SEE = Sum2("tes", "jdb");
         System.out.println(Sum_SEE);
     }
     static int sum (int a,int b){
-        //System.out.println("Enter the sum of number ");
+        System.out.println("Enter the sum of number ");
         return a + b;
     }
     static int sum1 (int a1,int b1){
