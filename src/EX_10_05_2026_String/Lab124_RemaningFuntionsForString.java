@@ -31,7 +31,7 @@ String fruits = "apple,bnnana,cherry";// based on the delimeter
         System.out.println(split_fruits[1]);
         System.out.println(split_fruits[2]);
 
-        String fruits2 = "ABC-XYZ-QWE";// based on the delimeter
+        String fruits2 = "ABC-XYZ-QWE";// based on the "-"
         String [] split_fruits1 = fruits2.split("-");
         System.out.println(split_fruits1[0]);
         System.out.println(split_fruits1[1]);
@@ -55,6 +55,43 @@ String fruits = "apple,bnnana,cherry";// based on the delimeter
         System.out.println(S10.indexOf("a")); // When two same latter is present into the word and the user want to define the 2nd one then how can user do ?
         System.out.println(S10.indexOf("B"));
 
+//contains -->
+        String S17 = "Biswanath";
+        System.out.println(S17.contains("Biw"));
+        System.out.println(S17.contains("Bis"));
+
+//LastIndexOf-
+
+String S89 = "Biswanath";
+        System.out.println(S89.lastIndexOf("a"));
+//Replace
+        String S24 = "Biswanath";
+        System.out.println(S89.replace("s","a"));
+        System.out.println(S89.replace("h","m"));
+
+
+        //StratsWith
+        String ABK = "Biswanath is a good boy";
+        System.out.println(ABK.startsWith("Biswanath"));
+
+        //EndsWith
+        String BSK = "Biswanath is a good boy";
+        System.out.println(BSK.endsWith("boy"));
+
+        String Original = "Banana";
+        String Result = Original.replace("B","C");
+        System.out.println(Result);
+
+        String Original1 ="My self Biswanath@123";
+        String Result1 = Original1.replaceAll("\\d+"," ");
+        System.out.println(Result1);
+
+
+
+
+
+
+        //EndsWith
 
 
 
