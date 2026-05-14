@@ -77,21 +77,14 @@ String S89 = "Biswanath";
         //EndsWith
         String BSK = "Biswanath is a good boy";
         System.out.println(BSK.endsWith("boy"));
-
+//Replace
         String Original = "Banana";
         String Result = Original.replace("n","C");
         System.out.println(Result);
-
+//Replace all
         String Original1 ="My self Biswanath@1234";
         String Result1 = Original1.replaceAll("\\d+"," ");
         System.out.println(Result1);
-
-
-
-
-
-
-        //EndsWith
 
 
 
