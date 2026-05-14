@@ -79,10 +79,10 @@ String S89 = "Biswanath";
         System.out.println(BSK.endsWith("boy"));
 
         String Original = "Banana";
-        String Result = Original.replace("B","C");
+        String Result = Original.replace("n","C");
         System.out.println(Result);
 
-        String Original1 ="My self Biswanath@123";
+        String Original1 ="My self Biswanath@1234";
         String Result1 = Original1.replaceAll("\\d+"," ");
         System.out.println(Result1);
 
