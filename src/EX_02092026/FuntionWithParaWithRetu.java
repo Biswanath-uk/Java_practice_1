@@ -9,6 +9,8 @@ public class FuntionWithParaWithRetu {
 
 String Sum_SEE = Sum2("tes", "jdb");
         System.out.println(Sum_SEE);
+
+        System.out.println(PrintWelcome("java"));
     }
     static int sum (int a,int b){
         System.out.println("Enter the sum of number ");
@@ -21,5 +23,9 @@ String Sum_SEE = Sum2("tes", "jdb");
     {
 
                 return a1;
+    }
+
+    static String PrintWelcome (String name ){
+        return "Welcome" + name + "!";
     }
 }

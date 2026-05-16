@@ -18,6 +18,7 @@ String s2 = s1.concat("Chandra");
         String s4 = " ";
         String s5 = ("Chandra");
         String result = s3 + s4 + s5;
+            System.out.println(s3 + s4 + s5);
         System.out.println(result);
 
 
@@ -78,15 +79,17 @@ String S89 = "Biswanath";
         String BSK = "Biswanath is a good boy";
         System.out.println(BSK.endsWith("boy"));
 //Replace
-        String Original = "Banana";
-        String Result = Original.replace("n","C");
+        String Original = "My name is biswanath chandra and surjo chandra";
+        String Result = Original.replace("chandra","Apurba");
         System.out.println(Result);
 //Replace all
-        String Original1 ="My self Biswanath@1234";
+        String Original1 ="My self Biswanath";
         String Result1 = Original1.replaceAll("\\d+"," ");
         System.out.println(Result1);
 
-
+String S98 = "Biswanath";
+String str_1 = S98.toLowerCase();
+            System.out.println(str_1);
 
     }
 
