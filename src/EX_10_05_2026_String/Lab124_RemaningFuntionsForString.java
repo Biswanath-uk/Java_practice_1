@@ -7,6 +7,7 @@ public class Lab124_RemaningFuntionsForString {
         String str = "Biswanath is a bad boy ";
         String part_pof_str = str.substring(11, 15);//SubString (str.substing)-->>(BeginIndex and EndIndex) It should allow the user to find out the character position
         System.out.println(part_pof_str);
+            System.out.println(str.substring(11, 15));
 
         //Concatination -->> Combination of two string
 String s1 = "Biswanath";
