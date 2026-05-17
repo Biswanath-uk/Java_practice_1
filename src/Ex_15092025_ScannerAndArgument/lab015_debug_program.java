@@ -1,4 +1,4 @@
-package Ex_15092025;
+package Ex_15092025_ScannerAndArgument;
 
 public class lab015_debug_program {
     public static void main(String[] args) {

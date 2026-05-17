@@ -11,5 +11,8 @@ public class Lab122_String3 {
         //But if you want to be fixed it use below mention step
          name = name.toUpperCase();
         System.out.println(name);
+
+        name = name.toLowerCase();
+        System.out.println(name);
     }
 }

@@ -1,4 +1,4 @@
-package Ex_15092025;
+package Ex_15092025_ScannerAndArgument;
 
 public class Lab014_Condition_if_else_1 {
     public static void main(String[] args) {

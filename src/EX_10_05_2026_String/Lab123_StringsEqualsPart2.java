@@ -2,7 +2,7 @@ package EX_10_05_2026_String;
 
 public class Lab123_StringsEqualsPart2 {
     public static void main(String[] args) {
-        String name1 = "Biswanath";
+        String name1 = "Biswanath1";
         String name2 = "Biswanath";
         String name3 = new String("Biswanath");
         String name4 = new String("Biswanath");

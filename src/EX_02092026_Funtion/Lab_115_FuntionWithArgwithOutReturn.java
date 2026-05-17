@@ -1,4 +1,4 @@
-package EX_02092026;
+package EX_02092026_Funtion;
 
 public class Lab_115_FuntionWithArgwithOutReturn {
     public static void main(String[] args) {

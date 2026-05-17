@@ -4,6 +4,8 @@ public class Lab120_String1 {
     public static void main(String[] args) {
 char c = 'A';
 System.out.println(c);
+
+
     }
 }
 

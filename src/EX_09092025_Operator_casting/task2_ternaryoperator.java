@@ -1,4 +1,4 @@
-package EX_09092025;
+package EX_09092025_Operator_casting;
 
 public class task2_ternaryoperator {
     public static void main(String[] args) {

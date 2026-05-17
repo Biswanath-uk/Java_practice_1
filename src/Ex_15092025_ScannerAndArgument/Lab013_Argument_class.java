@@ -1,4 +1,4 @@
-package Ex_15092025;
+package Ex_15092025_ScannerAndArgument;
 
 
 
