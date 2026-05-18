@@ -28,6 +28,9 @@ int sum = marks2[0]+marks2[1]+marks2[2]+marks2[3]+marks2[4];
 
 //With String datatype
         String Best [] = {"Biswanath ,Apurba "};
+
+
+
         String Best2 [] = new String [3];
         Best2 [0] = "Biswanath";
         Best2 [1] = "Apurba";
