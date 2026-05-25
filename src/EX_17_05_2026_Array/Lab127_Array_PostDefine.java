@@ -18,7 +18,7 @@ public class Lab127_Array_PostDefine {
 
 int sum = marks2[0]+marks2[1]+marks2[2]+marks2[3]+marks2[4];
         float Average = sum/5;
-        if (Average>=10){
+        if (Average>=101){
             System.out.println("Student is pass");
         }
         else {
