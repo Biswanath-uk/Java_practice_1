@@ -32,5 +32,9 @@ int item_index = Arrays.binarySearch(marks,100);
         System.out.println(item_index);
        // binary search is besically used to search a elimrnt in a shorted array
 
+
+
+
+
     }
 }
